@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ as\ p\ q
+comment0.target=Question(java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment1.params=
+comment1.target=Question()
+comment2.params=s\ as\ p\ q
+comment2.target=void\ addQ(java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+numComments=3
